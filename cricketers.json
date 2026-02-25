@@ -1,0 +1,716 @@
+[
+    {
+        "name": "Virat Kohli",
+        "description": "Virat Kohli is an Indian international cricketer and the former all-format captain of the Indian national cricket team. He is a right-handed batter and occasional right-arm medium pace bowler. Considered one of the greatest all-format batsmen in the history of cricket, he has been nicknamed the King, the Chase Master, and the Run Machine for his skills, records and ability to lead his team to victory. Kohli has the most centuries in ODIs and the second-most centuries in international cricket with 85 tons across all formats. He is also the leading run-scorer in the Indian Premier League. Kohli is the most successful Test captain of India with most wins and 3 consecutive Test mace retainments. He is the only batter to earn 900+ rating points across all 3 formats.",
+        "url": "https://en.wikipedia.org/wiki/Virat_Kohli",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Virat_Kohli_in_PMO_New_Delhi.jpg/330px-Virat_Kohli_in_PMO_New_Delhi.jpg"
+    },
+    {
+        "name": "Smriti Mandhana",
+        "description": "Smriti Mandhana is an Indian international cricketer and the vice-captain of the Indian women's national team. She was part of the Indian team that won the 2025 Women's Cricket World Cup, the Women's Asia Cup in 2016 and 2022. She also won a gold medal in the 2022 Asian Games, and a silver medal in the 2022 Commonwealth Games representing India. She captains Royal Challengers Bengaluru in the Women's Premier League (WPL), and had led them to WPL titles in the 2024 and 2026 seasons. She led the Trailblazers in the Women's T20 Challenge from 2019 to 2022, while winning the title in the 2020 season. In 2016, she was signed by Brisbane Heat in the Australian Women's Big Bash League (WBBL). She has also played for Hobart Hurricanes, Sydney Thunder, and Adelaide Strikers in the WBBL, Western Storm in the Women's Cricket Super League and Southern Brave in The Hunded.",
+        "url": "https://en.wikipedia.org/wiki/Smriti_Mandhana",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Smriti_Mandhana.jpg/330px-Smriti_Mandhana.jpg"
+    },
+    {
+        "name": "Sachin Tendulkar",
+        "description": "Sachin Ramesh Tendulkar is an Indian former international cricketer who captained the Indian national team. Often dubbed the \"God of Cricket\" in India, he is widely regarded as one of the greatest cricketers of all time. He holds several world records, including being the all-time highest run-scorer in international cricket, receiving the most player of the match awards in international cricket, and being the only batsman to score 100 international centuries. Tendulkar was a Member of Parliament, Rajya Sabha by presidential nomination from 2012 to 2018.",
+        "url": "https://en.wikipedia.org/wiki/Sachin_Tendulkar",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/The_cricket_legend_Sachin_Tendulkar_at_the_Oval_Maidan_in_Mumbai_During_the_Duke_and_Duchess_of_Cambridge_Visit%2826271019082%29.jpg/330px-The_cricket_legend_Sachin_Tendulkar_at_the_Oval_Maidan_in_Mumbai_During_the_Duke_and_Duchess_of_Cambridge_Visit%2826271019082%29.jpg"
+    },
+    {
+        "name": "MS Dhoni",
+        "description": "Mahendra Singh Dhoni is an Indian professional cricketer who plays as a right-handed batter and a wicket-keeper. Widely regarded as one of the most prolific wicket-keeper batsmen and captains, he represented the Indian cricket team and was the captain of the team in limited overs formats from 2007 to 2017 and in Test cricket from 2008 to 2014. Dhoni has captained the most international matches and is the most successful Indian captain. He has led India to victory in the 2007 ICC World Twenty20, the 2011 Cricket World Cup, and the 2013 ICC Champions Trophy, being the only captain to win three different limited overs ICC tournaments. He also led the teams that won the Asia Cup in 2010 and 2016, and he was a member of the title winning squad in 2018.",
+        "url": "https://en.wikipedia.org/wiki/MS_Dhoni",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/MS_Dhoni_%28Prabhav_%2723_-_RiGI_2023%29.jpg/330px-MS_Dhoni_%28Prabhav_%2723_-_RiGI_2023%29.jpg"
+    },
+    {
+        "name": "Rohit Sharma",
+        "description": "Rohit Gurunath Sharma is an Indian international cricketer and the former captain of the India national cricket team in all formats of the game. He is a right-handed top-order batter. He represents Mumbai in domestic cricket and Mumbai Indians in the Indian Premier League. Sharma was a member of the teams that won the 2007 T20 World Cup, the 2013 ICC Champions Trophy and was the winning captain of the 2024 T20 World Cup and the 2025 ICC Champions Trophy.",
+        "url": "https://en.wikipedia.org/wiki/Rohit_Sharma",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi_with_Shri_Rohit_Gurunath_Sharma_%28Cropped%29.jpg/330px-Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi_with_Shri_Rohit_Gurunath_Sharma_%28Cropped%29.jpg"
+    },
+    {
+        "name": "KL Rahul",
+        "description": "Kannaur Lokesh Rahul is an Indian international cricketer. He plays for the Indian national team as a right-handed wicket-keeper batter. Rahul represents Karnataka in domestic cricket and Delhi Capitals in the Indian Premier League.",
+        "url": "https://en.wikipedia.org/wiki/KL_Rahul",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/KL_Rahul_at_Femina_Miss_India_2018_Grand_Finale_%28cropped%29.jpg"
+    },
+    {
+        "name": "Hardik Pandya",
+        "description": "Hardik Himanshu Pandya is an Indian international cricketer who plays for the Indian cricket team. He is an all-rounder who is a right-handed middle order batsman and fast-medium bowler. He is considered one of the best all-rounders in the world in white-ball cricket. Pandya is the first fast-bowling all-rounder in T20Is to complete 1,000 runs and 100 wickets. He captains Mumbai Indians in the Indian Premier League and occasionally plays for Baroda in domestic cricket. He has captained the Indian team in white-ball cricket and was the vice captain of the team that won the 2024 T20 World Cup.",
+        "url": "https://en.wikipedia.org/wiki/Hardik_Pandya",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hardik_Pandya_in_PMO_New_Delhi.jpg/330px-Hardik_Pandya_in_PMO_New_Delhi.jpg"
+    },
+    {
+        "name": "Jasprit Bumrah",
+        "description": "Jasprit Jasbirsingh Bumrah is an Indian cricketer who plays for the Indian national team in all three formats of the game and has captained India in Tests and T20Is. He is widely regarded as the world's best active all-format pace bowler, and one of the best fast bowlers of all time. Bumrah is the first bowler to attain the number one ranking in the ICC Men's Player Rankings across all three formats, and the first Indian bowler to take 100 wickets in each format. He represents Gujarat in domestic cricket and Mumbai Indians in the Indian Premier League.",
+        "url": "https://en.wikipedia.org/wiki/Jasprit_Bumrah",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Jasprit_Bumrah_in_PMO_New_Delhi.jpg/330px-Jasprit_Bumrah_in_PMO_New_Delhi.jpg"
+    },
+    {
+        "name": "Ravindra Jadeja",
+        "description": "Ravindrasinh Anirudhsinh Jadeja is an Indian cricketer who represents the India national team currently in ODI and Test formats. He is an all-rounder, who bats left-handed and bowls left-arm orthodox spin. He is widely regarded as one of the greatest all-rounders and among the finest fielders of his generation. He represents Saurashtra in domestic cricket and Rajasthan Royals in the Indian Premier League. Jadeja was a crucial member of the Indian teams that won the 2013 and 2025 ICC Champions Trophy, becoming leading wicket-taker and player of the final in the former and hitting the winning boundary in the latter final. He was also a part of the Indian squad that won the 2024 ICC T20 World Cup, after which he announced his retirement from T20Is.",
+        "url": "https://en.wikipedia.org/wiki/Ravindra_Jadeja",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/PM_Shri_Narendra_Modi_with_Ravindra_Jadeja_%28Cropped%29.jpg/330px-PM_Shri_Narendra_Modi_with_Ravindra_Jadeja_%28Cropped%29.jpg"
+    },
+    {
+        "name": "Ravichandran Ashwin",
+        "description": "Ravichandran Ashwin is an Indian cricketer. He is a right-arm off spin bowler and a lower order batter. Widely regarded as one of the most prolific spinners of all time, he represented the Indian cricket team and was part of the Indian team that won the 2011 Cricket World Cup and the 2013 Champions Trophy. He represented Tamil Nadu and South Zone in domestic cricket.",
+        "url": "https://en.wikipedia.org/wiki/Ravichandran_Ashwin",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/The_Minister_of_State_for_Youth_Affairs_and_Sports_%28Independent_Charge%29%2C_Shri_Sarbananda_Sonowal_conferring_the_Arjuna_Award_on_cricketer_Ravichandran_Ashwin%2C_in_New_Delhi_on_July_31%2C_2015_cropped.jpg/330px-thumbnail.jpg"
+    },
+    {
+        "name": "Shubman Gill",
+        "description": "Shubman Gill is an Indian international cricketer who plays for the India national team. Gill captains the Test and the ODI team. He has also captained the team in T20I. A right-handed batsman, Gill represents Punjab in domestic cricket and captains the Gujarat Titans in the Indian Premier League.",
+        "url": "https://en.wikipedia.org/wiki/Shubman_Gill",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Shubman_Gill_2023_%28cropped%29.jpg"
+    },
+    {
+        "name": "Kapil Dev",
+        "description": "Kapildev Ramlal Nikhanj is an Indian former cricket team captain. He is regarded as one of the greatest all-rounders in the history of cricket, he was a fast-medium bowler and a hard-hitting middle-order batsman. Dev is the only player in the history of cricket to have taken more than 400 wickets and scored more than 5,000 runs in Test cricket.",
+        "url": "https://en.wikipedia.org/wiki/Kapil_Dev",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Kapil_Dev_at_Equation_sports_auction_%283x4_cropped%29.jpg"
+    },
+    {
+        "name": "Anil Kumble",
+        "description": "Anil Kumble is a former Indian cricketer, captain, coach and commentator who played Test and One Day International cricket for his national team over an international career of 18 years. A right-arm leg spin bowler, regarded as one of the greatest bowlers in cricket history, he took 619 wickets in Test cricket and was the third-highest wicket taker of all time at the time of his retirement in 2008.",
+        "url": "https://en.wikipedia.org/wiki/Anil_Kumble",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Anil_Kumble_%281%29.jpg/330px-Anil_Kumble_%281%29.jpg"
+    },
+    {
+        "name": "Yuvraj Singh",
+        "description": "Yuvraj Singh is an Indian former international cricketer who played in all formats of the game. An all-rounder who batted left-handed in the middle order and bowled slow left-arm orthodox, he has won 7 Player of the Series awards in One Day International cricket, which is the joint third-highest by an Indian cricketer, shared with former Indian captain Sourav Ganguly. He is the son of former Indian cricketer and actor Yograj Singh.",
+        "url": "https://en.wikipedia.org/wiki/Yuvraj_Singh",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Yuvraj_Singh_appointed_as_Ulysse_Nardin_watch_brand_ambassador.jpeg/330px-Yuvraj_Singh_appointed_as_Ulysse_Nardin_watch_brand_ambassador.jpeg"
+    },
+    {
+        "name": "Harbhajan Singh",
+        "description": "Harbhajan Singh, also known by the nickname Bhajji, is a former Indian cricketer. He later became a politician, serving as a Member of Parliament in Rajya Sabha. He is also a film actor, a television celebrity, and a cricket commentator.",
+        "url": "https://en.wikipedia.org/wiki/Harbhajan_Singh",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Shri_Harbhajan_Singh_2015.jpg/330px-Shri_Harbhajan_Singh_2015.jpg"
+    },
+    {
+        "name": "Rahul Dravid",
+        "description": "Rahul Sharad Dravid is an Indian former cricket player, ex-captain and ex-head coach of the Indian national cricket team. Known for his outstanding batting technique, Dravid scored 24,177 runs in international cricket and is widely regarded as one of the greatest batsmen in the history of cricket. He is colloquially known as Mr. Dependable and often referred to as The Wall. He won the 2002 ICC Champions Trophy as a member of the Indian team and guided the Indian team to victory in the 2024 ICC Men's T20 World Cup as the head coach.",
+        "url": "https://en.wikipedia.org/wiki/Rahul_Dravid",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Rahul_Dravid_in_2024.jpg/330px-Rahul_Dravid_in_2024.jpg"
+    },
+    {
+        "name": "Sourav Ganguly",
+        "description": "Sourav Chandidas Ganguly, also known as Dada, is an Indian cricket administrator and former cricketer and captain of the Indian national cricket team. He is popularly called the Maharaja of Indian Cricket. He is regarded as one of India's most successful cricket captains. As captain, he led Indian national team to win the 2002 ICC Champions Trophy and reach the final of the 2003 Cricket World Cup, the 2000 ICC Champions Trophy and the 2004 Asia Cup.",
+        "url": "https://en.wikipedia.org/wiki/Sourav_Ganguly",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Sourav_Ganguly_%28late_2010s%29.jpg/330px-Sourav_Ganguly_%28late_2010s%29.jpg"
+    },
+    {
+        "name": "VVS Laxman",
+        "description": "Vangipurapu Venkata Sai Laxman is an Indian former international cricketer and a former cricket commentator and pundit. A right-handed batsman known for his elegant stroke play, Laxman played as a middle-order batsman in Test cricket. Laxman is currently the Head of Cricket at the National Cricket Academy (NCA), and the head coach of the India Under-19 and India A teams. Laxman was a member of the Indian team that was one of the joint-winners of the 2002 ICC Champions Trophy, the title being shared with Sri Lanka.",
+        "url": "https://en.wikipedia.org/wiki/VVS_Laxman",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/VVS_Laxman99.jpg/330px-VVS_Laxman99.jpg"
+    },
+    {
+        "name": "Mithali Raj",
+        "description": "Mithali Raj is an Indian former cricketer who captained the national team from 2004 to 2022. She is the highest run-scorer in women's international cricket, and ESPN ranked her as one of the greatest female cricketers of all time. Raj has received several national and international awards, including the Wisden Leading Woman Cricketer in the World in 2017, Arjuna Award in 2003, the Padma Shri in 2015, and Major Dhyan Chand Khel Ratna in 2021.",
+        "url": "https://en.wikipedia.org/wiki/Mithali_Raj",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Mithali_Raj_with_Padma_Shri_Award_%28cropped%29.jpg/330px-Mithali_Raj_with_Padma_Shri_Award_%28cropped%29.jpg"
+    },
+    {
+        "name": "Jhulan Goswami",
+        "description": "Jhulan Goswami is an Indian former cricketer. She played for the India women's national cricket team from 2002 to 2022.",
+        "url": "https://en.wikipedia.org/wiki/Jhulan_Goswami",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Jhulan_Goswami_%2810_March_2009%2C_Sydney%29.jpg/330px-Jhulan_Goswami_%2810_March_2009%2C_Sydney%29.jpg"
+    },
+    {
+        "name": "Harmanpreet Kaur",
+        "description": "Harmanpreet Kaur Bhullar is an Indian cricketer who plays as an all-rounder and captains the India women's national team. She is a top order batter and a right-arm off-spin bowler. She captained the Indian team that won the 2025 Women's Cricket World Cup, the Women's Asia Cup in 2012, 2016 and 2022, and the gold medal in the 2022 Asian Games. Under her captaincy, the Indian women's team achieved its first bilateral Women's One Day International (WODI) away series win against England since 1999 in 2022, the first-ever Test victory over Australia in 2023, and the first Women's Twenty20 International (WT20I) series win against England in 2025. She was also a member of the Indian team that won the silver medal in the 2022 Commonwealth Games.",
+        "url": "https://en.wikipedia.org/wiki/Harmanpreet_Kaur",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/The_President%2C_Shri_Ram_Nath_Kovind_presenting_the_Arjuna_Award%2C_2017_to_Ms._Harmanpreet_Kaur_for_Cricket%2C_in_a_glittering_ceremony%2C_at_Rashtrapati_Bhavan%2C_in_New_Delhi_on_August_29%2C_2017_%28Cropped%29.jpg/330px-thumbnail.jpg"
+    },
+    {
+        "name": "Babar Azam",
+        "description": "Mohammad Babar Azam is a Pakistani international cricketer and a former captain of the Pakistan national team in all three formats of the game. A right-handed top-order batter, he captains Peshawar Zalmi in the Pakistan Super League. Azam was a member of the Pakistan team that won the 2017 ICC Champions Trophy.",
+        "url": "https://en.wikipedia.org/wiki/Babar_Azam",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Babar_azam_2023.jpg/330px-Babar_azam_2023.jpg"
+    },
+    {
+        "name": "Shaheen Afridi",
+        "description": "Shaheen Shah Afridi is a Pakistani international cricketer who plays for the Pakistan national team. He is the captain of the national ODI team and previously captained the T20I team. A left-arm fast bowler, he made his international debut in 2018 and was named the ICC Men's Cricketer of the Year in 2021, becoming the first Pakistani to win the Sir Garfield Sobers Trophy. He led Lahore Qalandars to Pakistan Super League titles in 2022, 2023, and 2025, becoming the first captain to win three championships.",
+        "url": "https://en.wikipedia.org/wiki/Shaheen_Afridi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Shaheen_Afridi_%282%29.jpg/330px-Shaheen_Afridi_%282%29.jpg"
+    },
+    {
+        "name": "Mohammad Rizwan",
+        "description": "Mohammad Rizwan is a Pakistani international cricketer. He is a right-handed batter and wicket-keeper. He captains Pakistan Super League franchise Multan Sultans and the Khyber Pakhtunkhwa team in domestic cricket. He has previously been the captain of the Pakistan team in ODIs and vice-captain in Test cricket and T20Is.",
+        "url": "https://en.wikipedia.org/wiki/Mohammad_Rizwan",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/M_Rizwan.jpg/330px-M_Rizwan.jpg"
+    },
+    {
+        "name": "Wasim Akram",
+        "description": "Wasim Akram is a Pakistani cricket commentator, coach, and former cricketer and captain of the Pakistan national cricket team. Akram is regarded as one of the greatest bowlers of all time. He is often revered as The Sultan of Swing.\nIn October 2013, Wasim Akram was the only Pakistani cricketer to be named in an all-time Test World XI to mark the 150th anniversary of Wisden Cricketers' Almanack. As captain, he led Pakistan to the finals of the 1999 Cricket World Cup, where they lost to Australia by 8 wickets. He was a part of the Pakistani squad which won the 1992 Cricket World Cup.",
+        "url": "https://en.wikipedia.org/wiki/Wasim_Akram",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Wasim-akram-gesf-2018-7878.jpg/330px-Wasim-akram-gesf-2018-7878.jpg"
+    },
+    {
+        "name": "Waqar Younis",
+        "description": "Waqar Younis Maitla HI is a Pakistani cricket coach, commentator and former cricketer who captained Pakistan national cricket team. A right-arm fast bowler, he is widely regarded as one of the greatest bowlers of all time. He is the former head coach of the Pakistani cricket team. He was a part of the squad which finished as runners-up at the 1999 Cricket World Cup.",
+        "url": "https://en.wikipedia.org/wiki/Waqar_Younis",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Pakistan_Super_League_PSLt20_Cricket_-_Waqar_Yonus_%28cropped%29.png"
+    },
+    {
+        "name": "Imran Khan",
+        "description": "Imran Ahmed Khan Niazi is a Pakistani former cricketer, philanthropist, and politician who served as the 19th prime minister of Pakistan from August 2018 until April 2022. As a cricketer, he captained the Pakistan national cricket team to victory in the 1992 Cricket World Cup. After retiring from cricket, he founded the Shaukat Khanum Memorial Cancer Hospital and Research Centre, Pakistan's first cancer hospital. He is the founder of the political party Pakistan Tehreek-e-Insaf (PTI) and was its chairman from 1996 to 2023.",
+        "url": "https://en.wikipedia.org/wiki/Imran_Khan",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Prime_Minister_Imran_Khan_Adresses_the_Forum_01.jpg/330px-Prime_Minister_Imran_Khan_Adresses_the_Forum_01.jpg"
+    },
+    {
+        "name": "Inzamam-ul-Haq",
+        "description": "Syed Inzamam-ul-Haq SI, also known as Inzi, is a former Pakistan cricketer and captain of Pakistan national cricket team. He is regarded as one of the greatest players Pakistan has produced and one of the best middle-order batsmen of all time. He was the former chief selector of the Pakistan cricket team before resigning in 2023. He was a part of the Pakistani squad which won the 1992 Cricket World Cup.",
+        "url": "https://en.wikipedia.org/wiki/Inzamam-ul-Haq",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Inzamam-ul-Haq.jpg/330px-Inzamam-ul-Haq.jpg"
+    },
+    {
+        "name": "Shoaib Akhtar",
+        "description": "Shoaib Akhtar is a Pakistani former international cricketer and commentator. Nicknamed the \"Rawalpindi Express\", he is one of the fastest bowlers in cricketing history. Akhtar made his Test match debut in November 1997 as an opening fast bowler and played his first One Day International three months later. Post-retirement, he began a YouTube career by starting his own channel, where he gives reviews on International and league matches and Pakistani cricket.",
+        "url": "https://en.wikipedia.org/wiki/Shoaib_Akhtar",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Khizer_Ahmed_and_mentor_Shoaib_Akhtar_%28cropped%29.jpg/330px-Khizer_Ahmed_and_mentor_Shoaib_Akhtar_%28cropped%29.jpg"
+    },
+    {
+        "name": "Saqlain Mushtaq",
+        "description": "Saqlain Mushtaq is a Pakistani cricket coach and former international cricketer who was the head coach of the Pakistani national cricket team between 2021 and 2022. He is best known for pioneering the \"doosra\", a leg break delivery bowled with an off break action. He was the fastest to reach the milestones of 200 and 250 wickets in ODIs. Mushtaq was the first Pakistani to take a hat-trick at a Cricket World Cup, which he did against Zimbabwe during the 1999 tournament.",
+        "url": "https://en.wikipedia.org/wiki/Saqlain_Mushtaq",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Saqlain_Mushtaq.jpg/330px-Saqlain_Mushtaq.jpg"
+    },
+    {
+        "name": "Shahid Afridi",
+        "description": "Sahibzada Mohammad Shahid Khan Afridi is a Pakistani former cricketer and captain of the Pakistan national cricket team. An all-rounder, Afridi was a right-handed leg spinner and a right-handed batsman.",
+        "url": "https://en.wikipedia.org/wiki/Shahid_Afridi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Shahid_Afridi_in_2017_%283x4_cropped%29.jpg/330px-Shahid_Afridi_in_2017_%283x4_cropped%29.jpg"
+    },
+    {
+        "name": "Younis Khan",
+        "description": "Mohammad Younis Khan PP SI is a Pakistani professional cricket coach and former cricketer and captain of the Pakistan national cricket team in all three formats of the game, and is widely regarded as one of the greatest middle-order batsmen in Test cricket. Khan is the only Test cricketer in the history of the game to score a century in all 11 countries that have hosted Test matches. Younis Khan was a member of the Pakistan cricket team that won the 2012 Asia Cup. Under his Captaincy Pakistan won the 2009 World Twenty20.",
+        "url": "https://en.wikipedia.org/wiki/Younis_Khan",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Younus_Khan_2010.jpg/330px-Younus_Khan_2010.jpg"
+    },
+    {
+        "name": "Sana Mir",
+        "description": "Sana Mir is a Pakistani cricket commentator and former cricketer who served as a captain of the Pakistan national women's cricket team in ODIs and T20Is. She played in 226 international matches, including 137 where she captained the side. She was the first bowler for Pakistan to take 100 wickets in WODIs. She played domestic cricket for Karachi and Zarai Taraqiati Bank Limited. She is part of the International Cricket Council’s Hall of Fame.",
+        "url": "https://en.wikipedia.org/wiki/Sana_Mir",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Sana_Mir_Portrait.jpg/330px-Sana_Mir_Portrait.jpg"
+    },
+    {
+        "name": "Steve Smith",
+        "description": "Steven, Stephen or Steve Smith may refer to:",
+        "url": "https://en.wikipedia.org/wiki/Steven_Smith",
+        "image_url": null
+    },
+    {
+        "name": "David Warner",
+        "description": "David or Dave Warner may refer to:",
+        "url": "https://en.wikipedia.org/wiki/David_Warner",
+        "image_url": null
+    },
+    {
+        "name": "Pat Cummins",
+        "description": "Patrick James Cummins is an Australian international cricketer who plays for the Australian men's cricket team in all three formats, captaining the team in both Test and One Day International cricket. A right-armed pace bowler, he also captains the Sunrisers Hyderabad in the Indian Premier League.",
+        "url": "https://en.wikipedia.org/wiki/Pat_Cummins",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Pat_Cummins_fielding_Ashes_2021_%28cropped%29.jpg/330px-Pat_Cummins_fielding_Ashes_2021_%28cropped%29.jpg"
+    },
+    {
+        "name": "Mitchell Starc",
+        "description": "Mitchell Aaron Starc is an Australian international cricketer who plays for the Australian national team and New South Wales in domestic cricket. A left-arm fast bowler and a lower order left-handed batsman, he is Australia's fourth highest wicket-taker in both Test and One Day International (ODI) cricket.",
+        "url": "https://en.wikipedia.org/wiki/Mitchell_Starc",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Mitchell_Starc_2023.jpg/330px-Mitchell_Starc_2023.jpg"
+    },
+    {
+        "name": "Glenn Maxwell",
+        "description": "Glenn James Maxwell is an Australian professional cricketer who plays for the Australia national cricket team in Twenty20 Internationals (T20I). He also plays for Victoria in domestic cricket and the Melbourne Stars in the Big Bash League. He previously played both Test and One Day International (ODI) cricket.",
+        "url": "https://en.wikipedia.org/wiki/Glenn_Maxwell",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Glen_Maxwell_2026_%28cropped%29.jpg/330px-Glen_Maxwell_2026_%28cropped%29.jpg"
+    },
+    {
+        "name": "Ricky Ponting",
+        "description": "Ricky Thomas Ponting is an Australian cricket coach, commentator, and former player. He is widely regarded as one of the greatest batsmen of all time and is the most successful captain in international cricket history, with 220 victories in 324 matches with a winning rate of 67.91%.",
+        "url": "https://en.wikipedia.org/wiki/Ricky_Ponting",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ricky_Ponting_2015.jpg/330px-Ricky_Ponting_2015.jpg"
+    },
+    {
+        "name": "Adam Gilchrist",
+        "description": "Adam Craig Gilchrist is an Australian cricket commentator and former international cricketer and captain of the Australia national cricket team. He was an attacking left-handed batsman and record-breaking wicket-keeper, who redefined the role for the Australia national team through his aggressive batting. Widely regarded as the greatest wicket-keeper-batsman in the history of the game, Gilchrist held the world record for the most dismissals by a wicket-keeper in One Day International (ODI) cricket until it was surpassed by Kumar Sangakkara in 2015 and the most by an Australian in Test cricket. Gilchrist was a member of the Australian team that won three consecutive world titles in a row: the 1999 Cricket World Cup, the 2003 Cricket World Cup, and the 2007 Cricket World Cup, along with winning the 2006 ICC Champions Trophy.",
+        "url": "https://en.wikipedia.org/wiki/Adam_Gilchrist",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Adam_Gilchrist_of_Australia_%28cropped%29.jpg/330px-Adam_Gilchrist_of_Australia_%28cropped%29.jpg"
+    },
+    {
+        "name": "Shane Warne",
+        "description": "Shane Keith Warne was an Australian international cricketer whose career ran from 1992 to 2007. Warne played as a right-arm leg spin bowler and a lower-order right-handed batter for Victoria, Hampshire, the Melbourne Stars and Australia. Warne is regarded by many of the greatest cricket players, statisticians and unbiased sporting analysts as not just the greatest ever leg spinner, but one of the greatest bowlers in the history of cricket. Warne also played for and coached the Rajasthan Royals, including captaining the team to victory in the inaugural season of the IPL.",
+        "url": "https://en.wikipedia.org/wiki/Shane_Warne",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Shane_Warne_February_2015.jpg/330px-Shane_Warne_February_2015.jpg"
+    },
+    {
+        "name": "Michael Clarke",
+        "description": "Michael or Mike Clarke may refer to:J. Michael Clarke, British acoustic and electroacoustic musician\nMichael Clarke (skier), Australia's first world champion in a winter sport\nMichael Clarke (academic), British academic who specialises in defence studies\nMichael Clarke (1915–2002), member of the Victorian Legislative Council\nMichael Clarke (1913–1982)\nMichael Clarke (1861–1926), a Progressive Conservative Party of Canada candidate\nMichael Clarke (cricketer), former captain of the Australian national cricket team\nMichael Clarke (musician) (1946–1993), American musician\nMichael Clarke (ornithologist), Australian ornithologist\nMichael Clarke (priest) (1935–1978), Anglican provost\nMichael Clarke Duncan (1957–2012), American actor\nMike Clarke, Canadian ice hockey player\nMichael Clarke (jockey), Australian jockey\nMichael E. Clarke, Australian political scientist\nMick Clarke, British guitarist, member of Killing Floor",
+        "url": "https://en.wikipedia.org/wiki/Michael_Clarke",
+        "image_url": null
+    },
+    {
+        "name": "Brett Lee",
+        "description": "Brett Lee is an Australian former international cricketer, who played all three formats of the game. During his international career, Lee was recognised as one of the fastest bowlers in the world.",
+        "url": "https://en.wikipedia.org/wiki/Brett_Lee",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Brett_lee_closeup2.jpg/330px-Brett_lee_closeup2.jpg"
+    },
+    {
+        "name": "Meg Lanning",
+        "description": "Meghann Moira Lanning is an Australian cricketer who formerly captained the national women's team. Lanning has been a member of seven successful world championship campaigns, winning two Women's Cricket World Cup and five ICC Women's World Twenty20 titles. She holds the record for the most Women's One Day International centuries and is the first Australian to score 2,000 Twenty20 International runs.",
+        "url": "https://en.wikipedia.org/wiki/Meg_Lanning",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/2020_ICC_W_T20_WC_A_v_SL_02-24_Lanning_%2806%29.jpg/330px-2020_ICC_W_T20_WC_A_v_SL_02-24_Lanning_%2806%29.jpg"
+    },
+    {
+        "name": "Alyssa Healy",
+        "description": "Alyssa Jean Healy is an Australian cricketer who plays for and captains the Australian women's national team. She also played for New South Wales in domestic cricket, as well as the Sydney Sixers in the WBBL. She made her international debut in February 2010.",
+        "url": "https://en.wikipedia.org/wiki/Alyssa_Healy",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Alyssa_Healy_playing_for_the_Sydney_Sixers.jpg/330px-Alyssa_Healy_playing_for_the_Sydney_Sixers.jpg"
+    },
+    {
+        "name": "Ellyse Perry",
+        "description": "Ellyse Alexandra Perry is an Australian International cricketer and former soccer player. Having debuted for both the national cricket and national soccer team at the age of 16, she is the youngest Australian to play international cricket and the first to appear in both ICC and FIFA World Cups. Gradually becoming a single-sport professional athlete from 2014 onward, Perry's acclaimed cricket career has continued to flourish and she is widely regarded to be one of the greatest female cricketers of all time.",
+        "url": "https://en.wikipedia.org/wiki/Ellyse_Perry",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/2017%E2%80%9318_W_Ashes_A_v_E_Test_17-11-09_Perry_portrait_%2802%29.jpg/330px-2017%E2%80%9318_W_Ashes_A_v_E_Test_17-11-09_Perry_portrait_%2802%29.jpg"
+    },
+    {
+        "name": "Ben Stokes",
+        "description": "Benjamin Andrew Stokes is an English international cricketer who is the captain of the England Test team. Stokes has played for England in all three formats. Stokes is regarded as one of England's greatest all-rounders in the history of the sport. In domestic cricket, he represents Durham and has played in multiple Twenty20 leagues around the world. He was part of the England team that won the 2019 Cricket World Cup and 2022 T20 World Cup.",
+        "url": "https://en.wikipedia.org/wiki/Ben_Stokes",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/3_14_Captain_Ben_%28cropped%29.jpg/330px-3_14_Captain_Ben_%28cropped%29.jpg"
+    },
+    {
+        "name": "Joe Root",
+        "description": "Joseph Edward Root is an English international cricketer who plays for England in Tests and ODIs. He captained the Test team from 2017–2022. He plays for Yorkshire in English domestic cricket. Root is currently the leading run-scorer among active batsmen, the second highest run-scorer of all time in Test cricket and the highest run scorer for England. Root is regarded as one of the greatest batsmen of his era and among the finest England has produced. He was part of the England team that won the 2019 Cricket World Cup, where he top scored for England. As of March 2026, he has topped the ICC rankings for Test batsmen on ten occasions.",
+        "url": "https://en.wikipedia.org/wiki/Joe_Root",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Joe_Root_HIP1487_%28cropped%29.jpg/330px-Joe_Root_HIP1487_%28cropped%29.jpg"
+    },
+    {
+        "name": "Jos Buttler",
+        "description": "Joseph Charles Buttler is an English international cricketer and former captain of the national team. He plays for Lancashire in domestic cricket and played in multiple T20 leagues. He is known for his innovative and aggressive batting style. He was part of the England team that won the 2019 ODI World Cup and led the team to victory at the 2022 T20 World Cup.",
+        "url": "https://en.wikipedia.org/wiki/Jos_Buttler",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Jos_Buttler_in_2023.jpg/330px-Jos_Buttler_in_2023.jpg"
+    },
+    {
+        "name": "James Anderson",
+        "description": "James Anderson may refer to:",
+        "url": "https://en.wikipedia.org/wiki/James_Anderson",
+        "image_url": null
+    },
+    {
+        "name": "Stuart Broad",
+        "description": "Stuart Christopher John Broad is an English cricket commentator and former cricketer who played Test cricket for the England cricket team and captained the team in One Day and Twenty20 Internationals. Broad was a member of the England team that won the 2010 ICC World Twenty20. His longevity, and highly successful partnership with fellow fast bowler James Anderson cemented him as one of England's greatest ever Test bowlers.",
+        "url": "https://en.wikipedia.org/wiki/Stuart_Broad",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Stuart_broad.jpg/330px-Stuart_broad.jpg"
+    },
+    {
+        "name": "Alastair Cook",
+        "description": "Sir Alastair Nathan Cook is an English commentator and a former cricketer and captain of the England Test and One-Day International (ODI) cricket teams. Known for his compact technique and ability to bat for long periods, Cook is widely regarded as one of the greatest batters of his era and one of the greatest opening batsman of all time. He is the sixth-highest Test run scorer of all time and second-highest run scorer for England. He is England's second most-capped Test batsman and captained the England team in 59 Tests, as well as in 69 ODIs. He was also the youngest player to score 12,000 test runs. Cook retired from Test cricket in September 2018 and played for Essex in English domestic cricket until 2023, while also working for the BBC radio programme Test Match Special.",
+        "url": "https://en.wikipedia.org/wiki/Alastair_Cook",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Alastair_Cook_vs_Upminster_CC.jpg/330px-Alastair_Cook_vs_Upminster_CC.jpg"
+    },
+    {
+        "name": "Kevin Pietersen",
+        "description": "Kevin Peter Pietersen is a former England international cricketer. He is regarded as one of the greatest English batsmen to have played the game, and renowned for his competitive, and often controversial nature. He was a right-handed batsman and occasional off spin bowler who played in all three formats for England between 2004 and 2014, which included a brief tenure as captain. He won the Player of the Series award for his performances in 2010 ICC World Twenty20 which helped England to win their maiden ICC trophy.",
+        "url": "https://en.wikipedia.org/wiki/Kevin_Pietersen",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Kevin_Pietersen_2014.jpg/330px-Kevin_Pietersen_2014.jpg"
+    },
+    {
+        "name": "Eoin Morgan",
+        "description": "Eoin Joseph Gerard Morgan is an Irish and English former cricketer and current commentator. He captained the England cricket team in limited overs cricket from 2015 until his international retirement in June 2022. He is widely considered as one of the greatest ever captains of England. Under his captaincy, England won the 2019 ICC Cricket World Cup, the first time they won the tournament, along with reaching the finals of the 2016 ICC World Twenty20, where the team lost to the West Indies by 4 wickets. Morgan was a member of the England team that won the 2010 ICC World Twenty20.",
+        "url": "https://en.wikipedia.org/wiki/Eoin_Morgan",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Eoin_Morgan_2.jpg/330px-Eoin_Morgan_2.jpg"
+    },
+    {
+        "name": "Ian Botham",
+        "description": "Ian Terence Botham, Baron Botham is an English cricket commentator, member of the House of Lords, a former cricketer who has been chairman of Durham County Cricket Club since 2017, and a charity fundraiser. Hailed as one of the greatest all-rounders in the history of the game, Botham represented England in both Test and One-Day International cricket. He was a part of the English squads which finished as runners-up at the 1979 and 1992 Cricket World Cups.",
+        "url": "https://en.wikipedia.org/wiki/Ian_Botham",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Ian_Botham_headshot.jpg/330px-Ian_Botham_headshot.jpg"
+    },
+    {
+        "name": "Kane Williamson",
+        "description": "Kane Stuart Williamson is a New Zealand international cricketer and a former captain of the New Zealand national team. On 27 February 2023, Williamson became the all-time leading run-scorer for New Zealand in Test cricket. A right-handed batsman and an occasional off spin bowler, he is widely regarded as one of the world's best contemporary batsmen and one of the greatest New Zealand captains and batsmen of all time. He captained New Zealand to victory in the 2021 ICC World Test Championship final and to the finals of the 2019 Cricket World Cup and 2021 T20 World Cup. He was also a part of the New Zealand squad to finish as runners-up at the 2015 Cricket World Cup and the 2025 ICC Champions Trophy.",
+        "url": "https://en.wikipedia.org/wiki/Kane_Williamson",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Kane_Williamson_in_2019.jpg/330px-Kane_Williamson_in_2019.jpg"
+    },
+    {
+        "name": "Trent Boult",
+        "description": "Trent Alexander Boult is a New Zealand cricketer who represented the New Zealand cricket team in all formats between 2011 and 2024. He continues to play in various Twenty20 leagues around the globe as a fast bowler. Boult was a key member of the New Zealand team that won the 2019–2021 ICC World Test Championship. He was also a part of the New Zealand squads to finish as runners-up in two Cricket World Cup finals in 2015 and 2019.",
+        "url": "https://en.wikipedia.org/wiki/Trent_Boult",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/2018.02.03.22.23.14-AUSvNZL_T20_AUS_innings%2C_SCG_%2839533156665%29.jpg/330px-2018.02.03.22.23.14-AUSvNZL_T20_AUS_innings%2C_SCG_%2839533156665%29.jpg"
+    },
+    {
+        "name": "Ross Taylor",
+        "description": "Luteru Ross Poutoa Lote Taylor is a Samoan international cricketer and former New Zealand international cricketer who served as the captain of the New Zealand national team. Batting predominantly at number four, when he announced his retirement from international cricket at the end of 2021 he was the leading run-scorer for New Zealand in Test and One Day International cricket. Taylor was a key member of the New Zealand team that won the 2019–2021 ICC World Test Championship, where he scored the winning boundary in the final. He was also a part of the New Zealand squads to finish as runners-up in two Cricket World Cup finals in 2015 and 2019.",
+        "url": "https://en.wikipedia.org/wiki/Ross_Taylor",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ross_Taylor_CNZM_%28cropped%29.jpg/330px-Ross_Taylor_CNZM_%28cropped%29.jpg"
+    },
+    {
+        "name": "Martin Guptill",
+        "description": "Martin James Guptill is a New Zealand cricketer who played for New Zealand as an opening batsman in all formats of the game. Guptill is the first cricketer from New Zealand and the fifth overall to have scored a double century in a One Day International match and holds the current record for the highest individual score in a Cricket World Cup match and the second highest score in One Day Internationals of 237 not out. In March 2021, Guptill played in his 100th Twenty20 International match. He was part of the New Zealand squads to finish as runners-up in two Cricket World Cup finals in 2015 and 2019.",
+        "url": "https://en.wikipedia.org/wiki/Martin_Guptill",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Martin_Guptill_2_%28cropped%29.jpg/330px-Martin_Guptill_2_%28cropped%29.jpg"
+    },
+    {
+        "name": "Brendon McCullum",
+        "description": "Brendon Barrie McCullum is a New Zealand cricket coach and former player who is the head coach of the England men's cricket team in all formats. Representing New Zealand, he captained the team in all formats. McCullum was renowned for his quick scoring, notably setting a record for the fastest Test century. He is considered one of New Zealand's most successful batsmen and captained the team to the finals of the 2015 Cricket World Cup and 2009 ICC Champions Trophy. He is also an inductee of the New Zealand Cricket Hall of Fame.",
+        "url": "https://en.wikipedia.org/wiki/Brendon_McCullum",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Brendon_McCullum_ONZM_%28cropped%29.jpg"
+    },
+    {
+        "name": "Tim Southee",
+        "description": "Timothy Grant Southee is a former New Zealand international cricketer who has captained New Zealand cricket team in all formats of the game. He is a right-arm medium-fast bowler and a hard-hitting lower order batsman. The third New Zealand bowler to take 300 Test wickets, he was one of the country's youngest cricketers, debuting at the age of 19 in February 2008. On his Test debut against England he took 5 wickets and made 77 off 40 balls in the second innings. He plays for Northern Districts in the Plunket Shield, Ford Trophy and Super Smash as well as Northland in the Hawke Cup. He was named as New Zealand's captain for the first T20I against West Indies in place of Kane Williamson, who was rested for that game. The Blackcaps won that match by 47 runs. Southee was a member of the New Zealand team that won the 2019–2021 ICC World Test Championship. Southee's Test batting strike rate of 82.68 is the third highest among batsmen with a minimum of 2000 career runs. He was also a part of the New Zealand squads to finish as runners-up in two Cricket World Cup finals in 2015 and 2019.",
+        "url": "https://en.wikipedia.org/wiki/Tim_Southee",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tim_Southee_ONZM_%28cropped%29.jpg/330px-Tim_Southee_ONZM_%28cropped%29.jpg"
+    },
+    {
+        "name": "Daniel Vettori",
+        "description": "Daniel Luca Vettori is a New Zealand cricket coach and former cricketer who played for the New Zealand national cricket team. He was the 200th player to win their Test cricket cap for New Zealand and an inductee in the New Zealand Cricket Hall of Fame. He is currently an assistant coach of the Australia men's national cricket team.",
+        "url": "https://en.wikipedia.org/wiki/Daniel_Vettori",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Daniel_Vettori_ONZM_%28cropped%29.jpg/330px-Daniel_Vettori_ONZM_%28cropped%29.jpg"
+    },
+    {
+        "name": "AB de Villiers",
+        "description": "Abraham Benjamin de Villiers is a South African former international cricketer. He is regarded as one of the greatest batters of his generation. de Villiers was named as the ICC ODI Player of the Year three times during his 15-year international career. He was one of the five Wisden cricketers of the decade at the end of 2019. He began his international career as a wicket-keeper-batter, but he has most often played only as a batter.",
+        "url": "https://en.wikipedia.org/wiki/AB_de_Villiers",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/AB_de_villiers_%28cropped%29.jpg/330px-AB_de_villiers_%28cropped%29.jpg"
+    },
+    {
+        "name": "Jacques Kallis",
+        "description": "Jacques Henry Kallis OIS is a South African cricket coach and former professional cricketer. Widely regarded as one of the greatest cricketers of all time and as one of the greatest all-rounders ever to play the game, he was a right-handed batsman and right-arm fast-medium swing bowler. As of 2025, Kallis is the only cricketer in the history of the game to score more than 10,000 runs and take over 250 wickets in both ODI and Test match cricket. He has also taken 131 ODI catches. He scored 13,289 runs in his Test match career, took 292 wickets, and 200 catches. Kallis scored 45 Test match centuries and is the fourth highest test match run scorer in history. Kallis won 23 Man-of-the-Match awards, the most by any player in Test history.",
+        "url": "https://en.wikipedia.org/wiki/Jacques_Kallis",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Jacques_Kallis_6.jpg/330px-Jacques_Kallis_6.jpg"
+    },
+    {
+        "name": "Dale Steyn",
+        "description": "Dale Willem Steyn is a South African cricket commentator and former professional cricketer who played for the South African cricket team. He is widely regarded as the greatest fast bowler of the Modern era and one of the greatest fast bowlers of all time. Steyn's ability to produce late swing at high pace - a rare and lethal combination amongst fast bowlers - made him stand apart from many of his contemporaries. Many cricketing legends have regarded his length deliveries unplayable when the ball swung. During the 2007–08 season, Steyn achieved a tally of 78 wickets at an average of 16.24, and was subsequently rewarded with the ICC 2008 Test Cricketer of the Year Award. He was named one of the Wisden Cricketers of the Year in 2013, and the Wisden Leading Cricketer in the World for the year 2013 in 2014's Wisden Cricketers' Almanack. In December 2015 he injured his shoulder in the Durban Test against England ; after this injury his career was a short lived one as it was followed by multiple injuries; these injuries were the reason why many cricketing greats didn't even consider post 2015 Steyn as \"The Dale Steyn\" which the batsmen feared to face. He was featured in Wisden Cricketers of the Decade at the end of 2019. He also was included in the ICC Test Team of the Decade at the end of 2020.",
+        "url": "https://en.wikipedia.org/wiki/Dale_Steyn",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Dale_Steyn_YM.jpg/330px-Dale_Steyn_YM.jpg"
+    },
+    {
+        "name": "Faf du Plessis",
+        "description": "François \"Faf\" du Plessis is a South African cricketer and former captain of the South Africa national cricket team. He is considered one of the greatest fielders of all time and among the best all-format batsmen of his era. One of the most successful international captains of his era with a winning percentage of 73.68 in ODIs, he is the first international captain to defeat Australia in Australia in all three formats of the game and defeat Australia in both Home and Away test series back to back, in 2016 and 2018. In 2016, he also became the first and only international captain to whitewash Australia defeating them 5–0 in a five match ODI series. Du Plessis was often called the magic dragon slayer of Australians and 2010s turned out to be a decade when South Africa dominated Australia like no other team in International Cricket.",
+        "url": "https://en.wikipedia.org/wiki/Faf_du_Plessis",
+        "image_url": null
+    },
+    {
+        "name": "Quinton de Kock",
+        "description": "Quinton de Kock is a South African international cricketer and former captain of the South Africa national team in all three formats. He currently plays for Titans at the domestic level and for South Africa in white ball cricket. He was named the Cricketer of the Year at Cricket South Africa's 2017 Annual Awards, and is considered as one of the best wicket keeper batsmen of his generation. An opening batsman and wicket-keeper, de Kock made his domestic debut for the Highveld Lions during the 2012/2013 season. He quickly caught the national selectors' eye when he starred in a match-winning partnership with Neil McKenzie in the Champions League T20 against the Mumbai Indians in the Indian Premier League (IPL). He also finished fourth on the first-class rankings, despite playing only six of the 10 matches that summer.",
+        "url": "https://en.wikipedia.org/wiki/Quinton_de_Kock",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/QUINTON_DE_KOCK_%2815681398316%29.jpg/330px-QUINTON_DE_KOCK_%2815681398316%29.jpg"
+    },
+    {
+        "name": "Hashim Amla",
+        "description": "Hashim Mahomed Amla OIS is a South African former international cricketer who captained the national team in Test matches and One Day Internationals (ODIs). He is widely regarded as one of the greatest batsmen to have played for South Africa, and one of the greatest top-order batsmen of his era.",
+        "url": "https://en.wikipedia.org/wiki/Hashim_Amla",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HASHIM_AMLA_%283175887080%29.jpg/330px-HASHIM_AMLA_%283175887080%29.jpg"
+    },
+    {
+        "name": "Graeme Smith",
+        "description": "Graeme Craig Smith is a South African cricket commentator and former cricketer who played for South Africa in all formats. In 2003, he was appointed captain of the national team, taking over from Shaun Pollock. He held the position of Test captain until his retirement in 2014. At 22, he was appointed as South Africa's youngest ever captain. He was the most capped captain ever when he played his 102nd match against England. He is considered one of South Africa's greatest captains, having led South Africa to a record 54 Test victories.",
+        "url": "https://en.wikipedia.org/wiki/Graeme_Smith",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Graemesmith.jpg/330px-Graemesmith.jpg"
+    },
+    {
+        "name": "Kagiso Rabada",
+        "description": "Kagiso Rabada is a South African international cricketer who plays all formats of the game. He is a right arm fast bowler. He made his international debut in November 2014 in limited-overs cricket before going on to make his Test debut in November 2015. By January 2018, he had topped both the ODI bowler rankings and the Test bowler rankings aged 22. In July 2018, he became the youngest bowler to take 150 wickets in Tests. Rabada was a member of the South African team which won the 2025 ICC World Test Championship final, the second ICC title the country has won till date.",
+        "url": "https://en.wikipedia.org/wiki/Kagiso_Rabada",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Rabada.jpg/330px-Rabada.jpg"
+    },
+    {
+        "name": "Laura Wolvaardt",
+        "description": "Laura Wolvaardt is a South African cricketer who currently plays for Western Province, Adelaide Strikers and Southern Brave and is the captain of South Africa. She plays as a right-handed opening batter. She has previously played for Northern Superchargers, Brisbane Heat and Gujarat Giants.",
+        "url": "https://en.wikipedia.org/wiki/Laura_Wolvaardt",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/2021%E2%80%9322_WBBL_PS_v_AS_21-10-30_Wolvaardt_%2801%29.jpg/330px-2021%E2%80%9322_WBBL_PS_v_AS_21-10-30_Wolvaardt_%2801%29.jpg"
+    },
+    {
+        "name": "Chris Gayle",
+        "description": "Christopher Henry Gayle OD is a former Jamaican cricketer who played international cricket for the West Indies from 1999 to 2021. Gayle is widely regarded as the greatest Twenty20 batsman in the history of cricket. He played a crucial role in the West Indies teams that won the 2004 ICC Champions Trophy, 2012 ICC World Twenty20 and 2016 ICC World Twenty20.",
+        "url": "https://en.wikipedia.org/wiki/Chris_Gayle",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Two_views_of_Chris_Gayle_%2848020785077%29.jpg/330px-Two_views_of_Chris_Gayle_%2848020785077%29.jpg"
+    },
+    {
+        "name": "Brian Lara",
+        "description": "Brian Charles Lara, is a Trinidadian former international cricketer, widely renowned as one of the greatest batsmen of all time. He holds several cricketing records, including the record for the highest individual score in first-class cricket, with 501 not out for Warwickshire against Durham at Edgbaston in 1994, and the record for the highest individual score in an international Test innings, after scoring 400 not out at Antigua during the 4th test against England in 2004. He is nicknamed \"The Prince of Port of Spain\" or simply \"The Prince\".",
+        "url": "https://en.wikipedia.org/wiki/Brian_Lara",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Brian_Lara_at_2012_Mumbai_Marathon_pre_bash.jpg"
+    },
+    {
+        "name": "Kieron Pollard",
+        "description": "Kieron Adrian Pollard is a Trinidadian cricketer, who captained the West Indies cricket team in limited overs cricket. He used to play in various T20 leagues around the globe as an all-rounder. He also used to captain MI Cape Town, MI Emirates and MI New York in the SA20, ILT20 and MLC respectively. He is currently playing for the Trinbago Knight Riders in the Caribbean Premier League. He is also the batting coach of the Mumbai Indians in the Indian Premier League and was the assistant coach of the England cricket team for the ICC Men's T20 World Cup 2024. He was part of the 2012 ICC World Twenty20 winning team for West Indies. During his period, he was one of the most aggressive batsmen and he also has the record of six 6s in an over against Sri Lanka.",
+        "url": "https://en.wikipedia.org/wiki/Kieron_Pollard",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Kieron_Pollard.jpg/330px-Kieron_Pollard.jpg"
+    },
+    {
+        "name": "Viv Richards",
+        "description": "Sir Isaac Vivian Alexander Richards is a retired Antiguan cricketer who represented the West Indies cricket team between 1974 and 1991. Usually batting at number three in a dominant West Indies team, Richards is widely regarded as one of the greatest batters of all time. Richards was part of the squads that won the 1975 Cricket World Cup and 1979 Cricket World Cup and finished as runners-up in the 1983 Cricket World Cup.",
+        "url": "https://en.wikipedia.org/wiki/Viv_Richards",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Vivian_richards_crop.jpg"
+    },
+    {
+        "name": "Courtney Walsh",
+        "description": "Courtney Andrew Walsh OJ is a Jamaican former cricketer who represented the West Indies from 1984 to 2001, captaining the team in 22 Test matches. He played as a fast bowler and is considered one of the all-time greats, best known for his opening bowling partnership with fellow West Indian Curtly Ambrose for several years. Walsh played 132 Tests and 205 ODIs for the West Indies and took 519 and 227 wickets respectively. He shared 421 Test wickets with Ambrose in 49 matches. He held the record of most Test wickets from 2000, after he broke the record of Kapil Dev. This record was later broken in 2004 by Shane Warne. He was the first bowler to reach 500 wickets in Test cricket. His autobiography is entitled \"Heart of the Lion\". Walsh was named one of the Wisden Cricketers of the Year in 1987. In October 2010, he was inducted into the ICC Cricket Hall of Fame. He was appointed as the Specialist Bowling Coach of Bangladesh Cricket Team in August 2016.",
+        "url": "https://en.wikipedia.org/wiki/Courtney_Walsh",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Courtney_Walsh.jpg/330px-Courtney_Walsh.jpg"
+    },
+    {
+        "name": "Curtly Ambrose",
+        "description": "Sir Curtly Elconn Lynwall Ambrose KCN is an Antiguan former cricketer who played 98 Test matches for the West Indies. Widely acknowledged as one of the greatest fast bowlers of all time, he took 405 Test wickets at an average of 20.99 and topped the ICC Player Rankings for much of his career to be rated the best bowler in the world. His great height—he is 6 feet 7 inches (2.01 m) tall—allowed him to make the ball bounce unusually high after he delivered it; allied to his pace and accuracy, it made him a very difficult bowler for batsmen to face. A man of few words during his career, he was notoriously reluctant to speak to journalists. He was chosen as one of the Wisden Cricketers of the Year in 1992; after he retired he was entered into the International Cricket Council Hall of Fame and selected as one of West Indies all-time XI by a panel of experts.",
+        "url": "https://en.wikipedia.org/wiki/Curtly_Ambrose",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Curtly_ambrose2_crop.jpg/330px-Curtly_ambrose2_crop.jpg"
+    },
+    {
+        "name": "Clive Lloyd",
+        "description": "Sir Clive Hubert Lloyd is a Guyanese-British former cricketer and captain of the West Indies cricket team. Widely regarded as one of the greatest captains of all time, Lloyd captained the West Indies between 1974 and 1985 and oversaw their rise to become among the greatest Test and One Day International teams of the 20th century. During his captaincy, West Indies won the 1975 Cricket World Cup and 1979 Cricket World Cup, while losing the 1983 Cricket World Cup final to India. He is also one of the most successful Test captains of all time: during his captaincy the team had a run of 27 matches without defeat, which included 11 wins in succession. He was the first West Indian player to earn 100 international caps. In 1971, he was named a Wisden Cricketer of the Year.",
+        "url": "https://en.wikipedia.org/wiki/Clive_Lloyd",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Clive_Lloyd_at_%27Idea_Champions_Of_The_World%27_press_meet.jpg/330px-Clive_Lloyd_at_%27Idea_Champions_Of_The_World%27_press_meet.jpg"
+    },
+    {
+        "name": "Sunil Narine",
+        "description": "Sunil Philip Narine is a Trinidadian cricket player who played internationally for the West Indies. He made his One Day International (ODI) debut in December 2011 and Test match debut in June 2012. Primarily an off-spin bowler, he is also a left-handed batsman. Narine was a part of the West Indies team that won the 2012 T20 World Cup, where he took the winning wicket of Lasith Malinga in the final. In November 2023, he announced his retirement from international cricket.",
+        "url": "https://en.wikipedia.org/wiki/Sunil_Narine",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Sunil_Narine.jpg/330px-Sunil_Narine.jpg"
+    },
+    {
+        "name": "Andre Russell",
+        "description": "Andre Dwayne Russell, nicknamed Dre Russ, is a Jamaican former international cricketer who has played international cricket for the West Indies and for Jamaica in domestic cricket as an all-rounder. He currently plays in various T20 leagues around the world and periodically represented the West Indies in T20is. Russell was part of the 2012 and 2016 ICC World T20 winning West Indies teams. Russell is considered as one of the greatest cricketers in the T20 format, notable for his powerful hitting, and capability to bowl at speeds consistently above 140 km/h.",
+        "url": "https://en.wikipedia.org/wiki/Andre_Russell",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Andre_Russell_%281%29.jpg/330px-Andre_Russell_%281%29.jpg"
+    },
+    {
+        "name": "Deandra Dottin",
+        "description": "Deandra Jalisa Shakira Dottin is a Barbadian cricketer and former track and field athlete. A right-handed batter and right-arm fast bowler, Dottin made her debut for the West Indies women's cricket team in June 2008. She plays as a hard-hitting lower-order batter, and scored her first century in a Women's Twenty20 International in 2010. She played in her 100th Women's One Day International (WODI) match, when the West Indies played India in the group stage of the 2017 Women's Cricket World Cup, on 29 June 2017. She plays domestic cricket for Trinbago Knight Riders and Manchester Originals, and has previously played for Barbados, Trinidad and Tobago, Lancashire Thunder, North West Thunder, London Spirit, Perth Scorchers, Brisbane Heat, Adelaide Strikers, Trailblazers and Supernovas.",
+        "url": "https://en.wikipedia.org/wiki/Deandra_Dottin",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/2020_ICC_W_T20_WC_WI_v_T_02-22_Dottin_%2801%29.jpg/330px-2020_ICC_W_T20_WC_WI_v_T_02-22_Dottin_%2801%29.jpg"
+    },
+    {
+        "name": "Muttiah Muralitharan",
+        "description": "Deshabandu Muttiah Muralitharan is a Sri Lankan cricket coach, businessman and former professional cricketer. Averaging over six wickets per Test match, he is widely regarded as one of the greatest players in the history of the sport. He is the only bowler to take 800 Test wickets and more than 530 One Day International (ODI) wickets. As of 2026, he has taken more wickets in international cricket than any other bowler. Muralitharan was a part of the Sri Lankan team that won the 1996 Cricket World Cup and the team which was joint-winners with India of the 2002 ICC Champions Trophy.",
+        "url": "https://en.wikipedia.org/wiki/Muttiah_Muralitharan",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Photograph_of_Muttiah_Muralitharan.jpg/330px-Photograph_of_Muttiah_Muralitharan.jpg"
+    },
+    {
+        "name": "Kumar Sangakkara",
+        "description": "Kumar Chokshanada Sangakkara is a Sri Lankan cricket commentator and former cricketer who represented Sri Lanka from 2000 to 2015. A former captain for Sri Lanka in all formats. Born in Matale, Central Province, Sangakkara played first-class cricket for Nondescripts Cricket Club from 1997–98 to 2013–14 and for Surrey County Cricket Club from 2015 to 2017. He was a key part of the Sri Lankan squads which won the 2001-02 Asian Test Championship, 2002 ICC Champions Trophy and 2014 T20 World Cup.",
+        "url": "https://en.wikipedia.org/wiki/Kumar_Sangakkara",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kumar_Sangakkara_bat_in_hand.JPG/330px-Kumar_Sangakkara_bat_in_hand.JPG"
+    },
+    {
+        "name": "Mahela Jayawardene",
+        "description": "Denagamage Praboth Mahela de Silva Jayawardene is a Sri Lankan former professional cricketer, captain, and batsman of the Sri Lankan national cricket team. He is widely regarded as one of the greatest Sri Lankan batsmen of all time.",
+        "url": "https://en.wikipedia.org/wiki/Mahela_Jayawardene",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Mahela_Jayawardene_3.JPG/330px-Mahela_Jayawardene_3.JPG"
+    },
+    {
+        "name": "Lasith Malinga",
+        "description": "Separamadu Lasith Malinga is a Sri Lankan former cricketer who is widely regarded as one of the greatest limited overs bowlers of all time. Playing as a right-arm fast bowler, Malinga was commonly used as a specialist death bowler, and captained the Sri Lanka national cricket team to the 2014 T20 World Cup title. He was nicknamed \"Slinga Malinga\" due to his distinctive round-arm action, sometimes referred to as a sling action. He announced his retirement from all forms of cricket on 14 September 2021.",
+        "url": "https://en.wikipedia.org/wiki/Lasith_Malinga",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Lasith_Malinga_tossing_a_cricket_ball_at_practice.jpg/330px-Lasith_Malinga_tossing_a_cricket_ball_at_practice.jpg"
+    },
+    {
+        "name": "Sanath Jayasuriya",
+        "description": "Deshabandu Sanath Teran Jayasuriya, is a Sri Lankan former cricketer, captain, cricket administrator and coach. He is widely regarded as one of the greatest all rounders ever to play in ODI cricket. A left arm orthodox spinner, left-handed batter and a dynamic fielder, Jayasuriya and his opening batting partner Romesh Kaluwitharana are credited for revolutionizing one-day international cricket with explosive batting in the mid-1990s, which initiated the hard-hitting modern-day batting strategy of all nations. He was a key member of the Sri Lankan team that won the 1996 Cricket World Cup. Under his captaincy Sri Lanka became joint champions along with India in the 2002 Champions Trophy. Currently, he is the head coach of the Sri Lanka national cricket team.",
+        "url": "https://en.wikipedia.org/wiki/Sanath_Jayasuriya",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sanath_jayasuriya_portrait.jpg"
+    },
+    {
+        "name": "Angelo Mathews",
+        "description": "Angelo Davis Mathews is a professional Sri Lankan cricketer and a former captain of the national cricket team in all formats. Mathews retired from Test cricket in 2025. Mathews was a member of the team that won the 2014 ICC World Twenty20 and was part of the team that made the finals of 2011 Cricket World Cup, 2009 ICC World Twenty20 and 2012 ICC World Twenty20. Mathews and Lasith Malinga hold the record for the highest ninth wicket partnership in ODI cricket.",
+        "url": "https://en.wikipedia.org/wiki/Angelo_Mathews",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Angelo_Mathews_%285338334462%29.jpg/330px-Angelo_Mathews_%285338334462%29.jpg"
+    },
+    {
+        "name": "Chamari Athapaththu",
+        "description": "Atapattu Mudiyanselage Chamari Jayangani Kumari Athapaththu, known as Chamari Athapaththu, is a Sri Lankan cricketer and the captain of the national team. In 2017, she was named the Cricketer of the Year for the 2016–17 season at Sri Lanka Cricket's annual awards. She is the first Sri Lankan woman to play franchise cricket. In 2023, a special seating zone at the Sydney Cricket Ground was named after her as Chamari Bay.",
+        "url": "https://en.wikipedia.org/wiki/Chamari_Athapaththu",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/2020_ICC_W_T20_WC_NZ_v_SL_02-22_Atapattu_%2809%29.jpg/330px-2020_ICC_W_T20_WC_NZ_v_SL_02-22_Atapattu_%2809%29.jpg"
+    },
+    {
+        "name": "Shakib Al Hasan",
+        "description": "Shakib Al Hasan is a former Bangladeshi international cricketer and captain who played Test, ODI and T20I cricket for the Bangladeshi cricket team. He was a former member of Parliament for Magura-1. He is known for his aggressive left-handed batting style in the middle order and controlled slow left-arm orthodox bowling. He is widely regarded as a very successful Bangladeshi sportsman, and considered as a highly skilled all-rounder in international Cricket. As of 2025, he is the all-time highest ICC Men's T20 World Cup wicket taker.",
+        "url": "https://en.wikipedia.org/wiki/Shakib_Al_Hasan",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Shakib_Al_Hasan_%284%29_%28cropped%29.jpg/330px-Shakib_Al_Hasan_%284%29_%28cropped%29.jpg"
+    },
+    {
+        "name": "Tamim Iqbal",
+        "description": "Tamim Iqbal Khan, commonly known as Tamim Iqbal, is a Bangladeshi former international cricketer as well as a commentator from Chittagong who was captain of the national team in ODI matches from 2020 to 2023. He is the first Bangladeshi cricketer to score a century in the ICC Men's T20 World Cup in the 2016 edition, scoring 103*, the highest score made by a Bangladeshi at any T20 World Cup tournament.",
+        "url": "https://en.wikipedia.org/wiki/Tamim_Iqbal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tamim_Iqbal_Khan.jpg/330px-Tamim_Iqbal_Khan.jpg"
+    },
+    {
+        "name": "Mushfiqur Rahim",
+        "description": "Mushfiqur Rahim is an international cricketer, former captain, of Bangladesh national cricket team, currently playing in only test format. He is a right-handed middle-order batter and wicket-keeper in the national team. He is the all-time highest Bangladeshi run scorer across all three international formats.",
+        "url": "https://en.wikipedia.org/wiki/Mushfiqur_Rahim",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Mushfiqur_Rahim_2018_%28cropped%29.jpg/330px-Mushfiqur_Rahim_2018_%28cropped%29.jpg"
+    },
+    {
+        "name": "Mahmudullah",
+        "description": "Mohammad Mahmudullah, also known as Riyad, is a former Bangladeshi international cricketer who captained the national team. He plays for Dhaka Division and has represented the national team in all formats. An all-rounder, he is a lower or middle-order batter as well as an off spin bowler. He has scored more than 10,000 runs and taken 150+ wickets in international cricket. He is renowned for his ability to finish a close limited-over game. He is the first Bangladeshi to score a World Cup hundred. Mahmudullah started his career as a bowler and then converted into a batsman who could bowl off-breaks.",
+        "url": "https://en.wikipedia.org/wiki/Mahmudullah",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Mahmudullah_Riyad_%282%29_%28cropped%29.jpg/330px-Mahmudullah_Riyad_%282%29_%28cropped%29.jpg"
+    },
+    {
+        "name": "Rashid Khan",
+        "description": "Rashid Khan Arman is an Afghan international cricketer and captain of the Afghanistan national team in the T20I format. In franchise leagues, he plays for Gujarat Titans in the Indian Premier League (IPL), Adelaide Strikers in Australia's Big Bash League (BBL), Lahore Qalandars in the Pakistan Super League (PSL), Band-e-Amir Dragons in Afghanistan's Shpageeza Cricket League and MI New York in Major League Cricket (MLC). He bowls right-arm leg spin and is an aggressive right-handed batsman.",
+        "url": "https://en.wikipedia.org/wiki/Rashid_Khan",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Rashid_Khan.jpg/330px-Rashid_Khan.jpg"
+    },
+    {
+        "name": "Mohammad Nabi",
+        "description": "Mohammad Nabi Eisakhil is an Afghan cricketer and former captain of the Afghanistan national cricket team. Nabi is an attacking batting all-rounder, playing as a right-handed batsman and off-break bowler.",
+        "url": "https://en.wikipedia.org/wiki/Mohammad_Nabi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Mohammad_Nabi-Australia.jpg"
+    },
+    {
+        "name": "Mujeeb Ur Rahman",
+        "description": "Mujeeb Ur Rahman Zadran is an Afghan cricketer, who plays for the Afghanistan national cricket team. Two months after his international debut, at the age of 16 years and 325 days, he became the youngest player to take a five-wicket haul in a One Day International. He was one of the eleven cricketers to play in Afghanistan's first Test match, against India, in June 2018. Afghanistan lost the one-sided Test within two days. Mujeeb scored 15 and 3 in the two innings, respectively, and got one wicket after conceding 75 runs. It was also Mujeeb's first-class cricket debut. His uncle, Noor Ali Zadran, is also an Afghan international cricketer.",
+        "url": "https://en.wikipedia.org/wiki/Mujeeb_Ur_Rahman",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Mujeeb_Ur_Rahman_celebrating.jpg/330px-Mujeeb_Ur_Rahman_celebrating.jpg"
+    },
+    {
+        "name": "Brendan Taylor",
+        "description": "Brendan Ross Murray Taylor is a Zimbabwean international cricketer and a former Zimbabwean captain, who plays all formats of the game. Taylor is a right-handed batsman but is also an off spinner. In 2015, former Zimbabwe captain Alistair Campbell described Taylor as \"our standout player for the last seven or eight years\". He is known for his unorthodox shots especially his ability to play upper cuts over the third man and ramp shots with elegance and are often considered as his trademark signature shots. His style of play and ability to make substantial contribution with the bat often drew comparisons with that of Andy Flower. He represented Zimbabwe in four ICC T20 World Cup tournaments in 2007, 2010, 2012 and 2014. Also, he represented Zimbabwe in three ICC ODI world cups as well in 2007, 2011 and 2015.",
+        "url": "https://en.wikipedia.org/wiki/Brendan_Taylor",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Cricket_at_Lord%27s_%2817165108401%29_%28Brendon_Taylor_cropped%29.jpg/330px-Cricket_at_Lord%27s_%2817165108401%29_%28Brendon_Taylor_cropped%29.jpg"
+    },
+    {
+        "name": "Heath Streak",
+        "description": "Heath Hilton Streak was a Zimbabwean cricketer and cricket coach who played for and captained the Zimbabwe national cricket team. He was the all time leading wicket taker for Zimbabwe in Test cricket with 216 wickets and in ODI cricket with 239 wickets.",
+        "url": "https://en.wikipedia.org/wiki/Heath_Streak",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Heath_Streak_%2C_Bangladesh_cricket_team_2015-04-24_%28PID-0059788%29_%28cropped%29.jpg"
+    },
+    {
+        "name": "Andy Flower",
+        "description": "Andrew Flower is a Zimbabwean cricket coach and a former cricketer. As a cricketer, he captained the Zimbabwe national cricket team and is widely regarded as the greatest Zimbabwean cricketer ever and one of the greatest wicket-keeper-batters of all time. He was Zimbabwe's wicket-keeper for more than 10 years and is, statistically, the greatest batsman the country has produced. His highest score in ODI cricket which was his 145 he made against India in the 2002 ICC Champions Trophy is also the highest score made by a Zimbabwe player at any tournaments. During his peak from October to December 2001, Flower was ranked as the best Test batsman in the world. He was widely acknowledged as the only Zimbabwe batsman of proper test quality in any conditions. After retirement, he served as the coach of the English cricket team from 2009 to 2014. Under his coaching, England won the 2010 ICC World Twenty20. Flower became the second foreign coach in the team's history. Currently, he is the head coach of London Spirit in The Hundred and Royal Challengers Bangalore in the Indian Premier League.",
+        "url": "https://en.wikipedia.org/wiki/Andy_Flower",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Andy_Flower.png/330px-Andy_Flower.png"
+    },
+    {
+        "name": "Paul Stirling",
+        "description": "Paul Robert Stirling is an Irish cricketer from Northern Ireland. Stirling is the opening batsman for the Ireland cricket team and an occasional right-arm, off-break bowler. He is one of the top 10 run scorers in T20 internationals. He was one of the eleven cricketers to play in Ireland's first ever Test match, against Pakistan, in May 2018. He was appointed as the vice-captain of the Ireland team in June 2020. He subsequently served as interim captain of Ireland in the T20I and ODI format following the resignation of Andrew Balbirnie, before being appointed as permanent limited-overs captain in October 2023.",
+        "url": "https://en.wikipedia.org/wiki/Paul_Stirling",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Paul_Stirling.jpg/330px-Paul_Stirling.jpg"
+    },
+    {
+        "name": "Kevin O'Brien",
+        "description": "Kevin O'Brien may refer to:",
+        "url": "https://en.wikipedia.org/wiki/Kevin_O'Brien",
+        "image_url": null
+    },
+    {
+        "name": "Nat Sciver-Brunt",
+        "description": "Natalie Ruth Sciver-Brunt is an English cricketer who represents England in all formats. She was the first cricketer for England to take a hat-trick in a Women's Twenty20 International match. The \"Natmeg\" shot is named after Sciver-Brunt, from when she has hit a cricket ball through her legs during a game.",
+        "url": "https://en.wikipedia.org/wiki/Nat_Sciver-Brunt",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/2020_ICC_W_T20_WC_E_v_SA_02-23_Sciver_%2805%29.jpg/330px-2020_ICC_W_T20_WC_E_v_SA_02-23_Sciver_%2805%29.jpg"
+    },
+    {
+        "name": "Heather Knight",
+        "description": "Heather Clare Knight is an English international cricketer and former captain of the England women's cricket team. She is a right-handed batter and right arm off spin bowler. Knight played in her 100th Women's One Day International match for England in December 2019.",
+        "url": "https://en.wikipedia.org/wiki/Heather_Knight",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/2019%E2%80%9320_WBBL_PS_v_HH_19-11-30_Knight_%2801%29.jpg/330px-2019%E2%80%9320_WBBL_PS_v_HH_19-11-30_Knight_%2801%29.jpg"
+    },
+    {
+        "name": "Sophie Devine",
+        "description": "Sophie Frances Monique Devine is a New Zealand sportswoman, who has represented New Zealand in both cricket for the New Zealand national women's cricket team, and in field hockey as a member of the New Zealand women's national field hockey team. She has since focused on cricket. She is known for not wearing a helmet when batting, a rarity in 21st century cricket. In December 2017, she was named as one of the players in the ICC Women's T20I Team of the Year.",
+        "url": "https://en.wikipedia.org/wiki/Sophie_Devine",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sophie_Devine_after_the_Sydney_Thunder_vs_Adelaide_Strikers_WBBL_game_at_Robertson_Oval.jpg/330px-Sophie_Devine_after_the_Sydney_Thunder_vs_Adelaide_Strikers_WBBL_game_at_Robertson_Oval.jpg"
+    },
+    {
+        "name": "Stafanie Taylor",
+        "description": "Stafanie Roxann Taylor is a Jamaican cricketer who is a former captain of the West Indies women's cricket team. She has represented them over 280 times since her debut in 2008. A right-handed batter and off break bowler, Taylor was selected as the 2011 ICC Women's Cricketer of the Year – the first West Indian to receive the accolade. She was also the first woman to score 1,000 runs in ODIs for the West Indies. She plays domestic cricket for Jamaica and Guyana Amazon Warriors and has previously played for Auckland, Sydney Thunder, Adelaide Strikers, Western Storm, Southern Vipers, Southern Brave and Trailblazers.",
+        "url": "https://en.wikipedia.org/wiki/Stafanie_Taylor",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/2020_ICC_W_T20_WC_WI_v_T_02-22_Taylor_%2801%29.jpg/330px-2020_ICC_W_T20_WC_WI_v_T_02-22_Taylor_%2801%29.jpg"
+    },
+    {
+        "name": "Anya Shrubsole",
+        "description": "Anya Shrubsole is an English former cricketer who played as a right-arm medium pace bowler and right-handed lower-order batter. She played for England between 2008 and 2022, and played domestic cricket for Somerset, Berkshire, Western Storm, Southern Vipers, Southern Brave and Perth Scorchers. She made her England debut in 2008, and was Player of the Match in the 2017 Women's Cricket World Cup Final. In 2018, she became the first woman to appear on the cover of Wisden Cricketers' Almanack. In April 2022, Shrubsole announced her retirement from international cricket. In June 2023, she announced her intention to retire from all forms of cricket after the 2023 season of The Hundred.",
+        "url": "https://en.wikipedia.org/wiki/Anya_Shrubsole",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Anya_Shrubsole%2C_2019_Ashes_Test.jpg/330px-Anya_Shrubsole%2C_2019_Ashes_Test.jpg"
+    },
+    {
+        "name": "Sarah Taylor",
+        "description": "Sarah Taylor may refer to:Sarah Knox Taylor (1814–1835), daughter of US President Zachary Taylor and wife of Confederacy President Jefferson Davis\nSarah McFarland Taylor, academic and author\nSarah Taylor (personality), Canadian television personality\nSarah Taylor (soldier) (1841–1886), American Civil War soldier\nSarah Taylor (cricketer), English cricketer\nSarah Taylor, Australian field hockey player\nSarah Taylor (soccer), Canadian soccer player\nSarah Taylor, Jersey squash player\nSarah Taylor (tennis), American tennis player\nSarah Mary Taylor (1916–2000), African American quiltmaker from Mississippi\nSarah Taylor, British politician\nSarah Stewart Taylor, American author",
+        "url": "https://en.wikipedia.org/wiki/Sarah_Taylor",
+        "image_url": null
+    },
+    {
+        "name": "Danielle Wyatt",
+        "description": "Danielle Nicole Wyatt-Hodge is an English cricketer who plays for Surrey, Southern Brave, England and Gujarat Giants. She plays as an all-rounder, batting right-handed and bowling right-arm off break. She made her England debut against India in Mumbai on 1 March 2010.",
+        "url": "https://en.wikipedia.org/wiki/Danni_Wyatt-Hodge",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Danielle_Wyatt.jpg/330px-Danielle_Wyatt.jpg"
+    },
+    {
+        "name": "Rachael Haynes",
+        "description": "Rachael Louise Haynes is an Australian former international cricketer who has won six world championships as a member of the national women's team. A left-handed batter, Haynes was vice-captain of Australia from 2017 to 2022. Domestically, she achieved prolonged success in the Women's National Cricket League (WNCL) and the Women's Big Bash League (WBBL), winning seven titles with New South Wales and two with the Sydney Thunder.",
+        "url": "https://en.wikipedia.org/wiki/Rachael_Haynes",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/2020_ICC_W_T20_WC_A_v_SL_02-24_Haynes_%2802%29.jpg/330px-2020_ICC_W_T20_WC_A_v_SL_02-24_Haynes_%2802%29.jpg"
+    },
+    {
+        "name": "Beth Mooney",
+        "description": "Bethany Louise Mooney is an Australian professional cricketer who plays for the national cricket team as a batter in all three formats of the game. At the domestic level, she plays as a wicket-keeper-batter for Western Australia, Perth Scorchers in WBBL and for Gujarat Giant in WPL. In March 2020, at the conclusion of the ICC Women's T20 World Cup 2020, she became the world's number one batter in Women's Twenty20 International (WT20I) cricket.",
+        "url": "https://en.wikipedia.org/wiki/Beth_Mooney",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/2020_ICC_W_T20_WC_A_v_SL_02-24_Mooney_%2801%29.jpg/330px-2020_ICC_W_T20_WC_A_v_SL_02-24_Mooney_%2801%29.jpg"
+    },
+    {
+        "name": "Marizanne Kapp",
+        "description": "Marizanne Kapp is a South African international cricketer who plays for South Africa national women's cricket team. She was the first female cricketer to take a hat-trick in a T20 match for South Africa.",
+        "url": "https://en.wikipedia.org/wiki/Marizanne_Kapp",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/2017%E2%80%9318_WNCL_NSWB_v_ACTM_17-11-26_Kapp_portrait_%2801%29.jpg/330px-2017%E2%80%9318_WNCL_NSWB_v_ACTM_17-11-26_Kapp_portrait_%2801%29.jpg"
+    },
+    {
+        "name": "Shabnim Ismail",
+        "description": "Shabnim Ismail is a South African former international cricketer who made her debut for the national women's team in January 2007. A right-arm fast bowler, Ismail is South Africa's all-time leading wicket-taker in both the One Day International and Twenty20 International formats. She has earned a reputation as one of the fastest female bowlers in the world having recorded the fastest ball bowled by a female of 132.1 kilometres per hour (82.1 mph) during the WPL in 2024. She has played in every edition of the ICC Women's World Twenty20 tournament since its inception in 2009. She has featured in ICC World Twenty20 on eight occasions in 2009, 2010, 2012, 2014, 2016, 2018, 2020, and 2023.",
+        "url": "https://en.wikipedia.org/wiki/Shabnim_Ismail",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/2020_ICC_W_T20_WC_E_v_SA_02-23_Ismael_%2801%29.jpg/330px-2020_ICC_W_T20_WC_E_v_SA_02-23_Ismael_%2801%29.jpg"
+    },
+    {
+        "name": "Don Bradman",
+        "description": "Sir Donald George Bradman, nicknamed \"The Don\", was an Australian international cricketer, widely acknowledged as the greatest batsman of all time. His cricketing successes have been claimed by Shane Warne, among others, to make Bradman the \"greatest sportsperson\" in history. Bradman's career Test batting average of 99.94 is considered by some to be the greatest achievement by any sportsman in any major sport.",
+        "url": "https://en.wikipedia.org/wiki/Don_Bradman",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Don_Bradman_1930.jpg/330px-Don_Bradman_1930.jpg"
+    },
+    {
+        "name": "Allan Border",
+        "description": "Allan Robert Border is an Australian former international cricketer and current cricket commentator. A batsman, Border was for many years the captain of the Australian team, and led his team to victory in the 1987 Cricket World Cup, the maiden world title for Australia. His playing nickname was \"A.B.\". He played 156 Test matches in his career, a record until it was passed by fellow Australian Steve Waugh. Border formerly held the world record for the number of consecutive Test appearances of 153, before it was surpassed in June 2018 by Alastair Cook, and is second on the list of number of Tests as captain.",
+        "url": "https://en.wikipedia.org/wiki/Allan_Border",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Allan_Border%2C_Ricky_Ponting_and_Steve_Waugh_October_2014_%28Border_cropped%29.jpg"
+    },
+    {
+        "name": "Garry Sobers",
+        "description": "The Right Excellent Sir Garfield St Aubrun Sobers, NH, AO, OCC, also known as Sir Gary or Sir Garry Sobers, is a Barbadian born former cricketer who played for the West Indies between 1954 and 1974. A highly skilled and an aggressive batsman, a versatile bowler and an excellent fielder, he is widely considered to be cricket's greatest ever all-rounder and one of the greatest cricketers of all time.",
+        "url": "https://en.wikipedia.org/wiki/Garfield_Sobers",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Sir_Garry_Sobers_2012.jpg/330px-Sir_Garry_Sobers_2012.jpg"
+    },
+    {
+        "name": "Dennis Lillee",
+        "description": "Dennis Keith Lillee, is a retired Australian cricketer rated as the \"outstanding fast bowler of his generation\". Lillee formed a new ball partnership with Jeff Thomson, which is recognised as one of the greatest bowling pairs of all time.",
+        "url": "https://en.wikipedia.org/wiki/Dennis_Lillee",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Dennis_Keith_Lillee_%288121209028%29.jpg/330px-Dennis_Keith_Lillee_%288121209028%29.jpg"
+    },
+    {
+        "name": "Richard Hadlee",
+        "description": "Sir Richard John Hadlee is a New Zealand former cricketer. Hadlee is widely regarded as one of the greatest all-rounders in cricket history, and amongst the very finest fast bowlers.",
+        "url": "https://en.wikipedia.org/wiki/Richard_Hadlee",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sir_Richard_Hadlee_Fill_the_Basin_for_Christchurch_%28cropped%29.jpg/330px-Sir_Richard_Hadlee_Fill_the_Basin_for_Christchurch_%28cropped%29.jpg"
+    },
+    {
+        "name": "Aravinda de Silva",
+        "description": "Deshabandu Pinnaduwage Aravinda de Silva is a former Sri Lankan cricketer. Regarded as one of Sri Lanka’s greatest ever cricketers, De Silva was a key member of the Sri Lankan team that won the 1996 Cricket World Cup, where he scored a match winning century in the final, bringing Sri Lanka from underdog status to present-day form. During the twilight of his career, De Silva was part of the team which finished as joint-winners alongside India at the 2002 ICC Champions Trophy. He has held various posts in Sri Lankan Cricket since his retirement in 2003. He was inducted into ICC Cricket Hall of Fame in 2023.",
+        "url": "https://en.wikipedia.org/wiki/Aravinda_de_Silva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/SPGPECT120.jpg"
+    },
+    {
+        "name": "Javed Miandad",
+        "description": "Mohammad Javed Miandad, PP, SI, popularly known as Javed Miandad, is a Pakistani cricket coach, commentator and former cricketer known for his unconventional style of captaincy and batting. ESPNcricinfo described him as \"the greatest batsman Pakistan has ever produced\" and his contemporary Ian Chappell extolled him as one of the finest batsmen in the history of cricket.",
+        "url": "https://en.wikipedia.org/wiki/Javed_Miandad",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Miandad_PTCL_%28cropped%29.jpg"
+    },
+    {
+        "name": "Zaheer Khan",
+        "description": "Zaheer Khan is an Indian former professional cricketer who played all formats of the game for the Indian national team from 2000 till 2014. A left-arm fast-medium bowler known for his ability to \"move the ball both ways off the wicket and swing the old ball at some pace\", he was known for reverse swing with the old ball. He is the second-most successful Indian pace bowler in Test cricket, behind Kapil Dev.",
+        "url": "https://en.wikipedia.org/wiki/Zaheer_Khan",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Zaheer_Khan_at_the_CPAA_show_2018_%28cropped%29.jpg"
+    }
+]
