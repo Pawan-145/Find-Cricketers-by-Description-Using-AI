@@ -1,5 +1,5 @@
 Output:
-![Demo][Demo.png]
+![Demo](Demo.png)
 
 To run app.py, write below command in your terminal:
 
